@@ -1,4 +1,4 @@
-
+#!bin/bash  #this is an interpreter and it should be first line of the code
 echo "Hello World"
 
 echo "Learning shell scripting"
