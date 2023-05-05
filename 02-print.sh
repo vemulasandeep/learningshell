@@ -10,6 +10,6 @@ echo Hello shell
 
 echo Hello, How are you , Good day
 
-Syntax : echo -e "line1\nline2"
+#Syntax : echo -e "line1\nline2"
 
 echo -e  "Hello,\nHow are you,\nGood day"
