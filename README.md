@@ -1,4 +1,3 @@
-#learning shell 
+# Learning Shell scripting
 
-## Learning Bash Shell scripting
 
