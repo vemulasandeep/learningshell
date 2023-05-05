@@ -1,4 +1,6 @@
 # Learning Shell scripting
 
-#She -ban
+Learning shell is a fun
+
+
 
