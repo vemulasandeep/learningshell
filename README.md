@@ -3,10 +3,10 @@
 Topics
 -------------
 1) Shebang  -- comments
-2)Quotes & Redirectors
-3)Print
-4)Variables
-5)Inputs
+2) Quotes & Redirectors
+3) Print
+4) Variables
+5) Inputs
 ----------
 
 Project Set up
