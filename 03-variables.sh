@@ -11,6 +11,6 @@ a=10
 echo $a
 
 # Arithmetic Substitution
-b = $((3+5))
+b=$((3+5))
 echo $b
 
