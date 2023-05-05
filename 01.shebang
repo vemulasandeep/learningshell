@@ -1,2 +1,8 @@
 
 echo "Hello World"
+
+echo "Learning shell scripting"
+
+ls  #this will print all the files and directories
+
+head /etc/passwd
