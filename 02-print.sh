@@ -5,3 +5,7 @@
 # Syntax : echo INPUT
 
 echo Hello shell
+
+#print multiple lines ( new lines)
+
+echo Hello,/n How are you, /n Good day
