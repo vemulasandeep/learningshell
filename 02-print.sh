@@ -36,6 +36,6 @@ echo -e "a\tb"
 #CYNA      36           \e[36m
 
 echo -e "\e[31m Hello in RED color"
-echo -e "\e[32m Hello in Green color"
+echo -e "\e[32m Hello in Green color \e[0m"
 echo Hello in normal color
 
