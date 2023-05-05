@@ -1,4 +1,4 @@
 # Learning Shell scripting
 
-#She -bang
+#She -ban
 
