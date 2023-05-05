@@ -5,4 +5,4 @@ echo "Learning shell scripting"
 
 ls  #this will print all the files and directories
 
-head /etc/passwd
+head /etc/passwd  # this will print first 10 lines of file
