@@ -8,4 +8,4 @@ echo Hello shell
 
 #print multiple lines ( new lines)
 
-echo -e  Hello,/n How are you, /n Good day
+echo -e  Hello,\n How are you, \n Good day
