@@ -1,2 +1,6 @@
+#!/bin/bash
+#creating a report file for a single container
 mkdir reports
 grep H6 /root/shipments.csv > reports/H6
+
+echo Report created.
