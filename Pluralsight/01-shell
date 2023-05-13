@@ -1,2 +1,2 @@
 mkdir reports
-grep H6 root/shipments.csv > reports/H6
+grep H6 /root/shipments.csv > reports/H6
