@@ -1,0 +1,2 @@
+mkdir reports
+grep H6 > reports/H6
