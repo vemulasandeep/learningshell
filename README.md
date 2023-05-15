@@ -15,6 +15,7 @@ Project Set up
 7) Exit status
 8) Functions
 9) Loops
+10) SED editor #Stream Line Editor , over the command we can edit the file
 
 
 
