@@ -12,3 +12,4 @@ echo XYZ Function
 }
 #calling a function
 abc
+xyz
