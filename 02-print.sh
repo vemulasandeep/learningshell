@@ -43,3 +43,4 @@ echo -e "\e[35m Hello in MAGENTA color"
 echo -e "\e[36m Hello in CYNA color \e[0m"
 echo Hello in normal color
 
+
