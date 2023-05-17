@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
 ls
-exit
+exit 10
 echo "Hello world"
