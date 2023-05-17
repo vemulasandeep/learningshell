@@ -5,6 +5,7 @@ abc() {
 echo ABC Function
 echo a= $a
 b=20
+echo first arguement in a Function = $1
 }
 
 #declaring a function in another way
@@ -18,3 +19,4 @@ a=10
 abc
 xyz
 echo b = $b
+echo firct argument in a main_function = $1
