@@ -19,4 +19,4 @@ a=10
 abc
 xyz
 echo b = $b
-echo firct argument in a main_function = $1
+echo first argument in a main_function = $1
