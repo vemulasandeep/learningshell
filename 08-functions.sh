@@ -16,7 +16,7 @@ echo XYZ Function
 #calling a function
 #Main Programme
 a=10
-abc
+abc 2000
 xyz
 echo b = $b
 echo first argument in a main_function = $1
