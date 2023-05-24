@@ -11,7 +11,7 @@
 
 i=0
 
-while [ $1 -lt 2 ]; do
+while [ $i -lt 2 ]; do
    echo Hello
    i=$(($i+1))
    done
