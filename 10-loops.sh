@@ -19,4 +19,10 @@ while [ $i -lt 2 ]; do
    i=$(($i+1))
    done
 
+#for loop
+
+for fruit in Apple Banana Grapes Sapota ; do
+echo fruit name = "$fruit"
+done
+
 
