@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-a=20
+a=30
 
 case $a in
   10)
