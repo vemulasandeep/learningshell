@@ -22,7 +22,7 @@ while [ $i -lt 2 ]; do
 #for loop
 
 for fruit in Apple Banana Grapes Sapota ; do
-echo fruit name = "$fruit"
+echo fruit name = $fruit
 done
 
 
