@@ -7,6 +7,9 @@
      #commands
      #done
 
+#while uses expressions
+#for uses inputs
+
 #While loop
 
 i=0
